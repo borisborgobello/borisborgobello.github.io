@@ -10,17 +10,19 @@ header:
 ## Main skills
 
 **Advanced :** Android (kotlin/java) / iOS (swift/obj-c) / Rails (ruby)  
-**Intermediate :** NodeJS / GCP  
+**Intermediate :** NodeJS / GCP / Python (AI/pytorch) / React Native  
 **Languages :** French/English (fluent), Spanish (intermediate), Japanese/Vietnamese (beginner)
 
 ## Experience
 
 **Foxrift - 3 years**  
 President, Developer & Freelancer
-Python AI / Unity / Android / iOS / React Native
+Python AI / Unity / Android / iOS / React Native  
+[https://foxrift.com/](https://foxrift.com/)
 
-**Streamroot - 3 years**  
-iOS / Android developer
+**Lumen Technologies x Streamroot - 3 years**  
+iOS / Android SDK engineer  
+[https://www.lumen.com/](https://www.lumen.com/)
 
 **Wiztek - 1 year**  
 Android / iOS developer + GCP / nodeJS
@@ -29,10 +31,11 @@ Android / iOS developer + GCP / nodeJS
 CTO - Rails / Android / iOS / JavaFX
 
 **DVMobile - 3.5 years**  
-Tech director Android + iOS developer
+Technical director Android + iOS developer
 
 **Thales Communications - 6 months**  
-Android developer
+Technical Director Android  
+[https://www.thalesgroup.com/](https://www.thalesgroup.com/)
 
 ## Formation
 
