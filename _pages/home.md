@@ -15,6 +15,10 @@ header:
 
 ## Experience
 
+**Foxrift - 3 years**  
+President, Developer & Freelancer
+Python AI / Unity / Android / iOS / React Native
+
 **Streamroot - 3 years**  
 iOS / Android developer
 
@@ -35,3 +39,12 @@ Android developer
 Engineer from Polytech'Sorbonne, Paris - 2011  
 **Major :** Electronic and computer science  
 **Minor :** Intensive calculation on new parallel architectures (CPU/GPU)
+
+## Documents
+
+CV PDF : [French](https://drive.google.com/file/d/1vRGq3bPYe96BjL4W4MAYfiNIRKaurzBm/view?usp=sharing) | [English](https://drive.google.com/file/d/1t420gMx67O5oCcBZiARcO3lPU80C6who/view?usp=sharing)
+Personality (AssessFirst, FR) : [Brain](https://drive.google.com/file/d/1QfvezwtDXhqMG09QCv-8Y8bZOt0WzUrz/view?usp=sharing) | [Drive](https://drive.google.com/file/d/14fBzp7QpJ5l4nK4mmM8w2aeFwdLpZKWI/view?usp=sharing) | [Swipe](https://drive.google.com/file/d/1QomMEYQluJ3Gg8nQxsZ5sDNhZkrbeYdg/view?usp=sharing)
+
+## Portfolio
+
+![Portfolio](/assets/images/brands1.png)
