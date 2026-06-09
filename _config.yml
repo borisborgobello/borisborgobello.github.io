@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-email: boris.borgobello@gmail.com
+email: dev.boris.borgobello@gmail.com
 github_username:  borisborgobello
 
 #theme                  : "minimal-mistakes-jekyll"
@@ -117,7 +117,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:boris.borgobello@gmail.com"
+      url: "mailto:dev.boris.borgobello@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
